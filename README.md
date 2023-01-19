@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @imgopaal
-- 👀 I’m interested in Latest Web Technologies
-- 🌱 I’m currently learning JavaScript
+- 👀 Interested in Latest Web Technologies
+- 🌱 JavaScript is Love
